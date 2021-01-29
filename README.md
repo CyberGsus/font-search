@@ -28,7 +28,7 @@ The `sort_search` function receives a list of keywords and returns a closure whi
 I've set up a little script that generates a virtual environment and installs the dependencies.
 
 - [Guided steps](#Guided-steps)
-- [Let a robot do it for you](#using-a-acript)
+- [Let a robot do it for you](#Using-a-Script)
 
 ### Guided steps
 
